@@ -66,7 +66,9 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 - Si bien los resistores son el tema principal de esta unidad, se pudo encontrar tipos de elementos electronicos con funcionamientos similares o con comportamientos de semiconductos como lo pueden ser  los diodos y varistores.
 
-- La resistencia de los materiales puede aumentar o disminuir dependiendo de una serie de condiciones y una de elllas es la temperatura, gracias a esta condicion para poder variar la resistencia de un material se han podido crear distintos tipos de elementos como Termistores, Transductores y celdas fotoconductoras.
+- La resistencia de los materiales puede aumentar o disminuir dependiendo de una serie de condiciones y una de elllas es la temperatura, gracias a esta condicion para poder variar la resistencia de un material se han podido crear distintos tipos de elementos como Termistores, Transductores y celdas fotoconductoras. 
+
+Se puede concluir que entre mayor es la capacidad de potencia de una lampara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
 
 
 
