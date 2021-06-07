@@ -6,6 +6,8 @@ Objetivo general  Resistencia capitulo   31
 
 - Comprender el uso de los resistores, la teoría con respecto a los materiales que se usan para elaborar distintos tipos de resistencias, sus cálculos y unidades del sistema internacional (SI), a través del uso de los temas estudiados en el informe posterior, para su efectiva aplicación en modelos prácticos acerca de diagramas de circuitos electrónicos, en cálculos matemáticos y físicos.
 
+-  Analizar el comportamiento de la corriente en circuitos resistivos mediante la ley de Ohm y así poder entender la relación entre el voltaje, resistencia y corriente parte fundamental de la teoría de circuitos 
+
 Objetivos especificos Resistencia capitulo 3
 
 - Reconocer el símbolo que representa la resistencia en el sistema internacional de unidades (SI) y sus respectivas unidades de medida.
@@ -13,6 +15,11 @@ Objetivos especificos Resistencia capitulo 3
 - Analizar los distintos tipos de resistores, sus aplicaciones y su clasificación a través de los colores que tenga cada resistencia.
 
 - Examinar la resistencia natural que tienen muchos de los materiales en conductores mediante distintos tipos de factores que afecten al material a ser mas resistente al paso de la corriente .
+
+objetvios especifico capitulo 4
+
+
+Identificar la relación entre potencia y energía en sistemas eléctricos y electrónicos 
 
 
 2. MARCO TEORICO
@@ -25,8 +32,9 @@ RESISTENCIA CAPITULO 3
 
 ![](https://user-images.githubusercontent.com/84397282/120918377-cc8bf980-c679-11eb-87a9-8ceec75b53c5.jpg)
 
-![](https://user-images.githubusercontent.com/84397282/120918378-cc8bf980-c679-11eb-9594-a5ab66b1b8f1.jpg)
-
+  
+  
+  
 
 
 
