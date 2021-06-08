@@ -5,6 +5,8 @@
 Objetivo general  Resistencia capitulo 3
 
 - Comprender el uso de los resistores, la teoría con respecto a los materiales que se usan para elaborar distintos tipos de resistencias, sus cálculos y unidades del sistema internacional (SI), a través del uso de los temas estudiados en el informe posterior, para su efectiva aplicación en modelos prácticos acerca de diagramas de circuitos electrónicos, en cálculos matemáticos y físicos.
+- 
+- Analizar el comportamiento de la corriente en circuitos resistivos mediante la ley de Ohm y así poder entender la relación entre el voltaje, resistencia y corriente parte fundamental de la teoría de circuitos 
 
 Objetivos especificos Resistencia capitulo 3
 
@@ -13,6 +15,10 @@ Objetivos especificos Resistencia capitulo 3
 - Analizar los distintos tipos de resistores, sus aplicaciones y su clasificación a través de los colores que tenga cada resistencia.
 
 - Examinar la resistencia natural que tienen muchos de los materiales en conductores mediante distintos tipos de factores que afecten al material a ser mas resistente al paso de la corriente .
+- 
+- especifico capitulo 4
+- 
+- Identificar la relación entre potencia y energía en sistemas eléctricos y electrónicos 
 
 
 2. MARCO TEORICO
@@ -59,6 +65,8 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 - Si bien los resistores son el tema principal de esta unidad, se pudo encontrar tipos de elementos electronicos con funcionamientos similares o con comportamientos de semiconductos como lo pueden ser  los diodos y varistores.
 
 - La resistencia de los materiales puede aumentar o disminuir dependiendo de una serie de condiciones y una de elllas es la temperatura, gracias a esta condicion para poder variar la resistencia de un material se han podido crear distintos tipos de elementos como Termistores, Transductores y celdas fotoconductoras.
+- 
+- Se puede concluir que entre mayor es la capacidad de potencia de una lampara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
 
 
 
